@@ -1,4 +1,4 @@
-# IUT Lean Formalization Proposal — Version 0.1
+# IUT Lean Formalization Proposal 
 
 This repository contains an independent research note and a skeletal Lean 4
 implementation inspired by §4 of Shinichi Mochizuki's April 2026 preliminary
